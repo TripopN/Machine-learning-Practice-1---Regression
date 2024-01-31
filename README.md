@@ -1,5 +1,4 @@
-# DADS6003
-Machine learning Practice 1 (Regression)
+# Machine learning Practice 1 (Regression)
 สร้าง ML (regression) โมเดล สำหรับ predict ราคาบ้านจากข้อมูลใน link นี้
 https://www.kaggle.com/datasets/yasserh/housing-prices-dataset?select=Housing.csv
 
